@@ -1,0 +1,105 @@
+{
+  "mappings": [
+    {
+      "field_name": "full_name",
+      "sheet": "Formulário",
+      "cell": "B6",
+      "required": true
+    },
+    {
+      "field_name": "person_type",
+      "sheet": "Formulário",
+      "cell": "B7",
+      "required": true
+    },
+    {
+      "field_name": "cpf_cnpj",
+      "sheet": "Formulário",
+      "cell": "F6",
+      "required": true
+    },
+    {
+      "field_name": "installation_number",
+      "sheet": "Formulário",
+      "cell": "F7",
+      "required": true
+    },
+    {
+      "field_name": "address",
+      "sheet": "Formulário",
+      "cell": "B9"
+    },
+    {
+      "field_name": "neighborhood",
+      "sheet": "Formulário",
+      "cell": "F9"
+    },
+    {
+      "field_name": "city",
+      "sheet": "Formulário",
+      "cell": "B10",
+      "required": true
+    },
+    {
+      "field_name": "state",
+      "sheet": "Formulário",
+      "cell": "F10",
+      "required": true
+    },
+    {
+      "field_name": "zip_code",
+      "sheet": "Formulário",
+      "cell": "B11"
+    },
+    {
+      "field_name": "phone",
+      "sheet": "Formulário",
+      "cell": "F11"
+    },
+    {
+      "field_name": "mobile",
+      "sheet": "Formulário",
+      "cell": "B12"
+    },
+    {
+      "field_name": "email",
+      "sheet": "Formulário",
+      "cell": "F12"
+    },
+    {
+      "field_name": "request_type",
+      "sheet": "Formulário",
+      "cell": "B14"
+    },
+    {
+      "field_name": "source_type",
+      "sheet": "Formulário",
+      "cell": "F14"
+    },
+    {
+      "field_name": "compensation_modality",
+      "sheet": "Formulário",
+      "cell": "B15"
+    },
+    {
+      "field_name": "installed_power_kw",
+      "sheet": "Formulário",
+      "cell": "F15"
+    },
+    {
+      "field_name": "contracted_demand_kw",
+      "sheet": "Formulário",
+      "cell": "B16"
+    },
+    {
+      "field_name": "fast_track",
+      "sheet": "Formulário",
+      "cell": "F16"
+    },
+    {
+      "field_name": "grid_zero",
+      "sheet": "Formulário",
+      "cell": "B17"
+    }
+  ]
+}
