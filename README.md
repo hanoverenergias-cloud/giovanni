@@ -79,6 +79,23 @@ to generate `configs/workbook_inspection_report.json` once the file is placed at
 2. **Mapping and safe filling (done baseline)**: mapping loader, guarded write engine, per-answer workbook updates.
 3. **UX/audit/export (done baseline)**: Streamlit flow, audit trail, JSON export, review step, printable/PDF strategy placeholder.
 
+## Quick start (one command)
+
+Use the helper script:
+
+```bash
+./run.sh all
+```
+
+Or run specific steps:
+
+```bash
+./run.sh setup
+./run.sh test
+./run.sh inspect
+./run.sh app
+```
+
 ## Run
 
 ```bash
