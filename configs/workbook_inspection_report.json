@@ -1,0 +1,6 @@
+{
+  "workbook": "Formulario-MicroGD_Rev_N4.xlsx",
+  "status": "missing",
+  "message": "Workbook file not found in repository root.",
+  "next_step": "Place the template in repo root and rerun python scripts/inspect_workbook.py"
+}
